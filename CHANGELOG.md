@@ -4,6 +4,12 @@ All notable changes to this project are documented here. The format follows
 [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) and versions follow
 [Semantic Versioning](https://semver.org/).
 
+## [1.0.1] - 2026-10-29
+
+### Changed
+
+- Build the release with current GitHub Actions (Node 20 ones are deprecated).
+
 ## [1.0.0] - 2026-10-29
 
 ### Added
@@ -17,4 +23,5 @@ All notable changes to this project are documented here. The format follows
 - Queue saved between sessions, with a limit on simultaneous files.
 - Automatic updates from GitHub Releases.
 
+[1.0.1]: https://github.com/StyuDEV/debrid-dl/releases/tag/v1.0.1
 [1.0.0]: https://github.com/StyuDEV/debrid-dl/releases/tag/v1.0.0
